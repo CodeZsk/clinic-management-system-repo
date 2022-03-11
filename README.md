@@ -1,12 +1,14 @@
-#Clinic Management System
+# Clinic Management System
 
-##Feture
+## Feture
+
 Login
-Add patient 
+Add patient
 Manage patient
 Add appointment
-Manage appointment 
+Manage appointment
 
-##Using 
-Python as front end 
-Mysql as back end 
+## Using
+
+Python as front end
+Mysql as back end
